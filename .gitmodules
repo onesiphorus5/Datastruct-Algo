@@ -1,0 +1,3 @@
+[submodule "DynamicArray"]
+	path = DynamicArray
+	url = git@github.com:onesiphorus5/DynamicArray.git
