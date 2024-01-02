@@ -1,3 +1,6 @@
 [submodule "DynamicArray"]
 	path = DynamicArray
 	url = git@github.com:onesiphorus5/DynamicArray.git
+[submodule "SinglyLinkedList"]
+	path = SinglyLinkedList
+	url = git@github.com:onesiphorus5/SinglyLinkedList.git
